@@ -12,3 +12,14 @@
 
 ## VDPB
 <img src = "images/VDPB.png " alt="Raw image" width="50%" align="center"/>
+
+| Method | Top-1 | F1 Score | Precision | Recall |
+| :---: | :---: | :---: | :---: | :---: |
+| Video Transformer Models |  |  |  |  |
+| TimeSformer [20] | 57.81 | - | - | - |
+| MotionFormer [19] | - | - | - | - |
+| VideoSwin [36] | - | - | - | - |
+| Hand Gesture Classification Models |  |  |  |  |
+| RGDC [30] | 10.00 | 9.195 | 10.057 | 9.195 |
+| TBNDR [23] | 36.67 | 34.02 | 36.72 | 36.67 |
+| EgoFormer(Ours) | 65.27 | 64.33 | 67.01 | 65.63 |
