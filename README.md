@@ -16,6 +16,9 @@
 <img src = "images/VDPB.png " alt="Raw image" width="50%" align="center"/>
 
 ## Performance comparison on EgoDriving dataset
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 | Method | Top-1 | F1 Score | Precision | Recall |
 | :---: | :---: | :---: | :---: | :---: |
 | Video Transformer Models |  |  |  |  |
@@ -26,3 +29,4 @@
 | RGDC [30] | 10.00 | 9.195 | 10.057 | 9.195 |
 | TBNDR [23] | 36.67 | 34.02 | 36.72 | 36.67 |
 | EgoFormer(Ours) | 65.27 | 64.33 | 67.01 | 65.63 |
+</div>
