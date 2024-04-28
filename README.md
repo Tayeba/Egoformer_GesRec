@@ -8,4 +8,4 @@
 <img src = "images/Qazi3_Hand_gestures.jpg " alt="Raw image" width="50%" align="center"/>
 
 # Overall pipeline
-<img src = "images/Egoformer_pipeline.png " alt="Raw image" width="50%" align="center"/>
+<img src = "images/Egoformer_pipeline.png " alt="Raw image" width="50%" align="center"/> <img src = "images/VDPB.png " alt="Raw image" width="50%" align="center"/>
