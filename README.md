@@ -7,7 +7,7 @@
 ## EgoDriving Dataset
 <img style="display: block; 
            margin-left: auto;
-           margin-right: auto;" src = "images/Qazi3_Hand_gestures.jpg " alt="Raw image" width="50%" align="center"/>
+           margin-right: auto;" src = "images/Qazi3_Hand_gestures.jpg " alt="Raw image" width="50%"> </img>
 
 ## Overall pipeline
 <img src = "images/Egoformer_pipeline.png " alt="Raw image" width="50%" align="center"/> 
