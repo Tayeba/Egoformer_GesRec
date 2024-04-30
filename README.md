@@ -20,7 +20,7 @@
 </p>
 
 ## Performance comparison on EgoDriving dataset
-<table id="tabular">
+<table id="tabular" align="center">
 <tbody>
 <tr style="border-top: none !important; border-bottom: none !important;">
 <td style="text-align: center; border-left-style: solid !important; border-left-width: 1px !important; border-right-style: solid !important; border-right-width: 1px !important; border-bottom-style: solid !important; border-bottom-width: 1px !important; border-top-style: solid !important; border-top-width: 1px !important; width: auto; vertical-align: middle; ">Method</td>
